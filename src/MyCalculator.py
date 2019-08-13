@@ -9,7 +9,7 @@ class CalculatorWindow(QtWidgets.QMainWindow, Ui_MainWindow):
     def __init__(self):
         super().__init__()
         self.setupUi(self)
-        self.setWindowIcon(QtGui.QIcon('icon.png'))
+        self.setWindowIcon(QtGui.QIcon('img/icon.png'))
         self.setWindowTitle('Calculator')
         self.show()
 

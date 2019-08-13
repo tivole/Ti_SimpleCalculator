@@ -1,8 +1,9 @@
 # Ti_SimpleCalculator
-This is a basic PyQt based simple calculator.
+This is a basic <b>PyQt</b> based simple calculator.
 ---
 
-<img src="src/icon.png" width="32px" height="32px" />
+<img src="src/icon.png" width="64px" height="64px" />
+<span style="font-size: 22px; vertical-align: 24px; padding-left: 20px;"> Simple Calculator </span>
 
 ## Linux based OS
 
@@ -10,8 +11,8 @@ This is a basic PyQt based simple calculator.
 * Run `git clone https://github.com/tivole/Ti_SimpleCalculator.git` to clone repository.
 
 ### Make sure you have installed:
-* Python (3.6 or above recommended)
-* Pip (18.1 or above recommended)
+* <b>Python</b> (3.6 or above recommended)
+* <b>Pip</b> (18.1 or above recommended)
 
 ### Virtual environment:
 * Run `python3 -m venv venv` to create virtual environment.
@@ -23,3 +24,4 @@ This is a basic PyQt based simple calculator.
 * Run `python main.py` to run calculator.
 
 ## Screenshots
+![Calculator Screenshot](src/img/screen.png)
