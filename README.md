@@ -2,7 +2,7 @@
 This is a basic PyQt based simple calculator.
 ---
 
-<img src="src/icon.png" width="60%" height="60%" />
+<img src="src/icon.png" width="32px" height="32px" />
 
 ## Linux based OS
 
